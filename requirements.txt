@@ -2,3 +2,11 @@ openai
 httpx
 fastapi
 uvicorn[standard]
+python-dotenv
+sounddevice
+numpy
+requests
+faster-whisper
+pyttsx3
+spacy
+piper-tts
